@@ -1,0 +1,15 @@
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\bin\Debug\Assignment 1.exe.config
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\obj\Debug\Assignment 1.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\obj\Debug\Assignment 1.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\New folder\Game\bin\Debug\Assignment 1.exe.config
+C:\Users\Lee\Desktop\Job applications\Coding Projects\New folder\Game\obj\Debug\Assignment 1.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\New folder\Game\obj\Debug\Assignment 1.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\Game\bin\Debug\Assignment 1.exe.config
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\Game\obj\Debug\Assignment 1.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\Game\obj\Debug\Assignment 1.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\Game\bin\Debug\Assignment 1.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\Game\bin\Debug\Assignment 1.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\Game\obj\Debug\Assignment_1.Form1.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\Game\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache

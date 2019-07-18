@@ -1,0 +1,36 @@
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.Cache
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.Cache
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.Cache
